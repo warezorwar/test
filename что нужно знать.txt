@@ -1,0 +1,50 @@
+-Система CMS
+    |
+    ---CMS WordPress
+    ---OpenCart
+    ---WooCommerce
+
+-JavaScript
+    |
+    ---Framework Javascript
+	|
+        ---jQuery
+    ---ECMAScript 6
+    ---Ajax
+
+-PHP
+
+-Шаблонизаторы
+    |
+    ---Blade (Laravel)
+    ---
+
+Agile/Scrum (чит.як скрам) — підхід управління проектами для гнучкої розробки програмного забезпечення.
+
+
+Необходимые навыки:
+
+TypeScript
+JavaScript
+Angular (2-7)
+Angular Material
+NodeJs
+MongoDB
+Express
+Html
+Css, Less, Sass
+Pug
+Gulp
+Webpack
+Git, GitLab, Bitbucke
+Pm2
+
+
+
+
+
+PHP projects: LAMP/LEMP, Laravel 5.x;
+NodeJS: ExpressJS, Sequelize ORM, etc.;
+Other technologies: Memcache, Redis, Elasticsearch, Prerender.io;
+Hosting: Digital Ocean, Heroku, Amazon AWS/Lightsail, Vscale, VPS/VDS in Hetzner datacenter (mostly test servers);
+Local development: currently we use Vagrant + Virtualbox and experiment with Docker.
